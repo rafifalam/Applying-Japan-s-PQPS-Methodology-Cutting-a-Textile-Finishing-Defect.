@@ -34,7 +34,4 @@ Rather than leaving the shop floor to troubleshoot ad hoc, structured quality pr
 
 This demonstrates the ability to bring formal, internationally-trained quality methodology (Japanese TQM/PQPS approach) into a real production environment — not just applying tools, but building the structure and mentoring a team to use them independently and sustainably.
 
-## Files
-
----
 *Portfolio project by Rafif — Quality & Operations Improvement Specialist, AOTS Japan PQPS Trained*
