@@ -1,4 +1,4 @@
-# Applying Japan's PQPS Methodology: Cutting a Textile Finishing Defect by 60%
+# Applying Japan's PQPS Methodology: Cutting a process Defect by 60%
 
 **Category:** Quality Control | Root Cause Analysis | Process Improvement
 **Role:** QC Methodology Mentor — trained team in AOTS/Japan PQPS problem-solving
